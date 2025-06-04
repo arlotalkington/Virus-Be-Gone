@@ -32,6 +32,11 @@ Just run the `.exe` file:
 virus_be_gone.exe
 ```
 
+or
+```bash
+.\virus_be_gone_win.exe
+```
+
 Inside the app, type `help` to explore available commands.
 
 ## 📌 Topics
