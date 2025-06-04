@@ -6,4 +6,4 @@ A lightweight Python-powered antivirus for Windows.
 ✔ Quarantine & restore  
 ✔ Command-line interface
 
-➡️ [**Download v1.0**](https://github.com/arlotalkington/Virus-Be-Gone/releases/tag/virus_be_gone)
+➡️ [**Download**](https://github.com/arlotalkington/Virus-Be-Gone/releases/tag/virus_be_gone)
