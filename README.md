@@ -20,7 +20,9 @@ Signature files are stored as JSON in the `signatures/` folder:
 
 ```json
 [
-  { "hash": "e3b0c44298fc1c149afbf4c8996fb924..." }
+  {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb924..."
+  }
 ]
 ```
 
@@ -44,5 +46,6 @@ Inside the app, type `help` to explore available commands.
 `#hash-scanner` `#cybersecurity` `#realtime-monitoring` `#open-source`
 
 ---
-
-> Built with ❤️ by Arlo. Virus go bye-bye.
+```virus-be-gone
+< (Virus Be Gone) > Built with ❤️ by Arlo. Virus go bye-bye.
+```
