@@ -33,7 +33,7 @@ virus_be_gone.exe
 ```
 
 or
-```bash
+```powershell
 .\virus_be_gone_win.exe
 ```
 
