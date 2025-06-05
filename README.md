@@ -32,6 +32,9 @@ Signature files are stored as JSON in the `signatures/` folder:
 [
   {
     "hash": "e3b0c44298fc1c149afbf4c8996fb924..."
+  },
+  {
+    "hash": "havub2309u49fjq8943li8h7f87flou43..."
   }
 ]
 ```
