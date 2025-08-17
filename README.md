@@ -55,7 +55,7 @@ or
 .\virus_be_gone_win.exe
 ```
 
-Inside the app, type `help` to explore available commands.
+Inside the app, type `help` or `?` to explore available commands.
 
 ---
 
